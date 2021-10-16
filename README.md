@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rami-Ayyad
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Front-End Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me .. Via my Email : engramiahmad97@gmail.com
 
 <!---
 Rami-Ayyad/Rami-Ayyad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
