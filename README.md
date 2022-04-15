@@ -35,7 +35,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rami-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/engramiahmad/) or Via my Email : engramiahmad97@gmail.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rami-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/engramiahmad/) or via my Email : engramiahmad97@gmail.com
 
 
 ---
